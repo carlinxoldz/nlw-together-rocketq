@@ -4,16 +4,22 @@
 
 ## Projeto desenvolvido com as tecnologias:
 
-HTML, CSS, JavaScript, EJS, Node-JS, Express, SQLite, computer Projeto.
 
-### Projeto desenvolvido durante o evento NLW-together, tendo como objetivo fortalecer a fundação sobre os conhecimentos adquiridos e sanar possíveis dúvidas.
+#HTML,
+CSS,
+JavaScript,
+EJS,
+Node-JS,
+Express,
+SQLite,
+computer Projeto.
 
-
-
+### Projeto: 
+Desenvolvido durante o evento NLW-together, tendo como objetivo fortalecer a fundação sobre os conhecimentos adquiridos e sanar possíveis dúvidas.
 O Rocket.Q é uma aplicação de interação através de perguntas, sendo possível criar uma sala para internautas anônimos fazerem perguntas e o criador da sala em posse de uma senha gerenciar essas perguntas e marcar como lidas.
 
 
-### Licença
+### Licença:
 Projeto sob licença MIT. 
 
 [![NPM](https://img.shields.io/github/license/carlinxoldz/nlw-together-rocketq)](https://github.com/carlinxoldz/nlw-together-rocketq/blob/main/LICENSE)

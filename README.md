@@ -14,3 +14,4 @@ O Rocket.Q é uma aplicação de interação através de perguntas, sendo possí
 ### Licença
 Projeto sob licença MIT. 
 
+
